@@ -290,15 +290,16 @@ header nav .wrap ul li a img{
 
 #concept .wrap .cont{
     margin-left: 200px;
-    padding: 40px 0;
     /* background: #afa; */
 }
 #concept .wrap .cont .contBox{
     display: flex;
     align-items: center;
+    /* background: #faa; */
 }
 #concept .wrap .cont .contBox .left{
-    width: 120px; height: 180px;
+    width: 120px;
+    padding: 40px 0;
     margin: 0 10px 20px;
     /* background: #aaf; */
 }
@@ -310,7 +311,8 @@ header nav .wrap ul li a img{
 }
 
 #concept .wrap .cont .contBox .right{
-    width: 780px; height: 180px;
+    width: 780px; 
+    padding: 40px 0;    
     margin: 0 10px 20px;
     /* background: #aaf; */
     margin-left: 70px;
