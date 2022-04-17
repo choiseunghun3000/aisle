@@ -592,9 +592,9 @@ header nav .wrap ul li a img{
 
 /***** blog part *****/
 #blog{
-    padding: 40px 0 20px;
+    padding: 40px 0;
     /* background: #ccc; */
-    background-image: url(../img/section_deco_left.png), url(../img/section_deco_right.png);
+    background-image: url(../img/section_deco_left_01.png), url(../img/section_deco_right_01.png);
     background-repeat: no-repeat;   
     background-size: auto 30%, auto 25%;
     background-position: 0% 30%, 100% 70%;
