@@ -441,7 +441,7 @@ header nav .wrap ul li a img{
     display: block;
     width: calc(100% / 3 - 20px); height: 100%;
     margin: 0 10px 20px; 
-    transition: box-shadow, filter 0.5s;
+    transition: box-shadow 0.5s;
 }
 #gallery .wrap .bottom .imgBox img:first-child{
     filter: brightness(1.5);
